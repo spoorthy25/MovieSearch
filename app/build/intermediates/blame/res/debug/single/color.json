@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\c79c234b026da92546de9780f40996fc546ae068\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Spoorthy\\MovieSearch - Copy-20170415T195529Z-001\\MovieSearch - Copy\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\JOSHI\\.android\\build-cache\\2679ab51d5ca9007fe9f4a4d10e4d06e9ea4cfde\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    }
+]

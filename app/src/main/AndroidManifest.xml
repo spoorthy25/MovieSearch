@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.spoorthy.moviesearch">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppBaseTheme">
+        <activity android:name=".MainActivity">
+            android:label="Search Results"
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                android:label="Search Results11111"
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".SearchResultsActivity">
+            android:label="Search Results"
+        </activity>
+
+        <activity android:name=".MovieDetails">
+            android:label="Search Results"
+        </activity>
+
+    </application>
+
+</manifest>
